@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.author   = { 'codecooker' => 'codecooker@outlook.com' }
   s.license  = 'New BSD License'
   s.platform      = :ios, "6.0"
-  s.source   = { :git => 'git@amigoon.com:repositories/YYUIKit-Source.git', :commit => '6abd8d1a413873266383ab849467fba5bf428176' }
+  s.source   = { :git => 'git@amigoon.com:repositories/YYUIKit-Source.git'}
 
   s.description = %{
     YYUIKit 是基于iOS UIKit 封装出得一个UI库，可以简单的实现UIKit开发。对一些特有的控件进行了封装和二次开发。
