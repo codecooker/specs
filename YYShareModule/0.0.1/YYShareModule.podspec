@@ -106,7 +106,7 @@ Pod::Spec.new do |s|
     swxp.frameworks = "CoreTelephony"
     swxp.frameworks = "SystemConfiguration"
    swxp.libraries = "z", "stdc++","iconv","sqlite3","sqlite3.0"
-    swxp.dependency 'libWeChatSDK', '1.5.0'
+    swxp.dependency 'libWeChatSDK', '1.5'
    swxp.dependency 'YYShareModule/Core'
   end
 end
